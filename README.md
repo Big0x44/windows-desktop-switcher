@@ -1,13 +1,13 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U82G0A5)
 
 # windows-desktop-switcher
-An AutoHotkey script for Windows that lets a user switch virtual desktops by pressing <kbd>CapsLock</kbd> and a number row key at the sime time (e.g. <kbd>CapsLock</kbd> + <kbd>2</kbd> to switch to Desktop 2). It also provides other features, such as customizing the key combinations, creation/deletion of desktops by hotkey, etc. (see Hotkeys section below).
+An AutoHotkey script for Windows that lets a user switch virtual desktops by pressing <kbd>Ctrl</kbd> and a function key at the sime time (e.g. <kbd>Ctrl</kbd> + <kbd>F2</kbd> to switch to Desktop 2). It also provides other features, such as customizing the key combinations, creation/deletion of desktops by hotkey, etc. (see Hotkeys section below).
 
 ## Hotkeys
 
 Action | Keys 
 --- | :-:
-**Switch** to virtual desktop **1, 2, etc.**<br>*(you can also use the Numpad)*|<kbd>CapsLock</kbd> + <kbd>1</kbd><br><kbd>CapsLock</kbd> + <kbd>2</kbd><br>...<br><kbd>CapsLock</kbd> + <kbd>9</kbd>
+**Switch** to virtual desktop **1, 2, etc.**<br>*(you can also use the Numpad)*|<kbd>Ctrl</kbd> + <kbd>F1</kbd><br><kbd>Ctrl</kbd> + <kbd>F2</kbd><br>...<br><kbd>Ctrl</kbd> + <kbd>F9</kbd>
 **Switch back** to the last desktop used|<kbd>CapsLock</kbd> + <kbd>Tab</kbd>
 **Switch** to the virtual desktop on the **left**<br>*(auto-cycles from the first to the last desktop)*|<kbd>CapsLock</kbd> + <kbd>A</kbd><br><kbd>CapsLock</kbd> + <kbd>P</kbd>
 **Switch** to the virtual desktop on the **right**<br>*(auto-cycles from the last to the first desktop)*|<kbd>CapsLock</kbd> + <kbd>S</kbd><br><kbd>CapsLock</kbd> + <kbd>N</kbd>
