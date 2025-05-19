@@ -21,7 +21,7 @@ SetKeyDelay, 75
 mapDesktopsFromRegistry()
 OutputDebug, [loading] desktops: %DesktopCount% current: %CurrentDesktop%
 
-#Include %A_WorkingDir%\user_config.ahk
+#Include *i %A_WorkingDir%\user_config.ahk
 return
 
 ;
